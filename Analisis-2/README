@@ -1,0 +1,43 @@
+Excel:
+
+Limpieza y transformación de datos:
+
+Eliminar duplicados y datos erróneos.
+Convertir las fechas al formato adecuado.
+Separar el nombre del juego en diferentes columnas (si es necesario).
+
+
+
+Análisis básico de los datos:
+
+python
+Calcular la cantidad total de juegos en la tabla.
+Determinar el promedio de tiempo de juego y las estadísticas descriptivas.
+Calcular la cantidad total de reseñas y calificaciones.
+Realizar un análisis de correlación entre diferentes variables (por ejemplo, tiempo de juego y calificaciones).
+Identificar los juegos con las mejores y peores calificaciones.
+Calcular el promedio de calificaciones por año de lanzamiento.
+Graficar histogramas y diagramas de dispersión para visualizar la distribución y las relaciones entre las variables.
+Realizar pruebas de hipótesis para determinar si hay diferencias significativas entre el tiempo de juego y los años trascurridos
+Ajustar un modelo de regresión para predecir las calificaciones en función de otras variables, como el tiempo de juego.
+Evaluar la calidad del modelo y realizar predicciones
+Generar un gráfico de líneas que muestre la evolución de las calificaciones a lo largo del tiempo.
+Crear un mapa de calor para visualizar la correlación entre las variables.
+
+
+
+
+Power BI:
+
+Creación de un dashboard básico:
+
+Importar los datos en Power BI.
+Diseñar visualizaciones adecuadas para mostrar la información relevante, como gráficos de barras, gráficos de líneas y tablas interactivas.
+Filtrar los datos según criterios específicos, como género de los juegos o fecha de lanzamiento.
+
+Análisis avanzado y creación de informes:
+Utilizar medidas DAX para calcular métricas adicionales, como el porcentaje de juegos con calificaciones superiores a 4.
+Crear un informe interactivo que muestre tendencias y patrones en los datos.
+Generar un informe resumido que destaque los juegos más populares y mejor calificados.
+
+
