@@ -1,0 +1,30 @@
+Limpieza y transformación de datos en Excel:
+Verificar la consistencia de los valores en las columnas "pais" y "pais_id".
+Convertir las columnas de año y mes al formato adecuado.
+Si tienes información adicional sobre la superficie de cada registro de venta de carne, asegúrate de tener una columna específica para la superficie en hectáreas.
+Python:
+
+Limpieza y transformación de datos:
+
+Verificar la consistencia de los valores en las columnas "pais" y "pais_id".
+Convertir las columnas de año y mes al formato adecuado.
+Si tienes información adicional sobre la superficie de cada registro de venta de carne, asegúrate de tener una columna específica para la superficie en hectáreas.
+Análisis básico de los datos:
+
+Calcular el ingreso neto promedio.
+Calcular el margen bruto promedio.
+Calcular la eficiencia de stock promedio.
+Calcular la producción promedio.
+Realizar un análisis de correlación entre diferentes variables, como el ingreso neto y la producción.
+Crear gráficos utilizando bibliotecas de visualización como Matplotlib o Seaborn para representar la distribución de variables y las relaciones entre ellas.
+Realizar pruebas de hipótesis utilizando bibliotecas estadísticas como SciPy para determinar si hay diferencias significativas entre las variables.
+
+Power BI:
+
+Importar los datos en Power BI desde un archivo Excel o una base de datos.
+Diseñar un dashboard básico que muestre la información relevante sobre las ventas de carne en Argentina.
+Utilizar visualizaciones adecuadas, como gráficos de barras, gráficos de líneas, tablas interactivas, etc., para presentar los datos de manera clara y comprensible.
+Filtrar los datos según criterios específicos, como provincia, departamento o actividad.
+Utilizar medidas DAX para calcular métricas adicionales, como el ingreso neto promedio o el margen bruto promedio.
+Generar un informe interactivo que permita a los usuarios explorar los datos y descubrir tendencias y patrones.
+Destacar los productos más vendidos, las provincias más rentables o cualquier otra información relevante en un informe resumido.
